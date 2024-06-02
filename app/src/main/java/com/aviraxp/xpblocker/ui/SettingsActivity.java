@@ -49,7 +49,7 @@ public class SettingsActivity extends PreferenceActivity {
     private void showUpdateLog() {
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
         if (sp.getInt("VERSION", 0) != BuildConfig.VERSION_CODE) {
-            new LicensesDialog(SettingsActivity.this, getLocalUpdateLog())
+            new LicensesDialog(SettingsActivity.this, getLanUpdateLog())
                     .setTitle(R.string.updatelog)
                     .setPositiveButton(android.R.string.ok, null)
                     .show();
