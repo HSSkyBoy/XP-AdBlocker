@@ -8,7 +8,7 @@ Why you should use it? Because it's not VPN or Hosts based! You can use any VPN 
 
 ## Development
 
-The original developer @aviraxp has abandoned this project since Nougat was coming. Then, @zsakvo continued it a bit, and left. Now, @HardcodedCat is currently continuing the project.
+The original developer @aviraxp has abandoned this project since Nougat was coming. Then, @zsakvo continued it a bit, and left.
 
 ## Distribution
 
