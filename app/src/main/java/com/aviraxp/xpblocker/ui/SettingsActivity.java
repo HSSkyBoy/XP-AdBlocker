@@ -63,8 +63,8 @@ public class SettingsActivity extends PreferenceActivity {
     }
 
     private void uriListener() {
-        uriHelper("GITHUB", "https://github.com/HardcodedCat/XPBlocker");
-        uriHelper("MAINTAINER", "https://github.com/HardcodedCat");
+        uriHelper("GITHUB", "https://github.com/HSSkyBoy/XP-AdBlocker");
+        uriHelper("MAINTAINER", "https://github.com/HSSkyBoy");
         uriHelper("XDA", "https://forum.xda-developers.com/xposed/modules/xposed-adblocker-reborn-1-0-1-2017-02-11-t3554617");
     }
 
