@@ -47,7 +47,7 @@
     <string name="list_mode_description">Enables XPBlocker for all apps, except for apps selected in the App List, whose won\'t be affected.</string>
     <string name="list_mode">Whitelist Mode</string>
     <string name="updatelog">Update Log</string>
-    <string name="app_maintainer">This module is currently being developed by HardcodedCat</string>
+    <string name="app_maintainer">This module is currently being developed by HSSkyBoy</string>
     <string name="maintainer">Maintainer</string>
     <string name="antixposed_hook_description">Prevent some applications from attempting to block Xposed themselves</string>
     <string name="antixposed_hook">Bypass Xposed Block</string>
