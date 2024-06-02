@@ -58,8 +58,8 @@ public class SettingsActivity extends PreferenceActivity {
         }
     }
 
-    private String getLocalUpdateLog() {
-            return "file:///android_asset/html/update_en.html";
+    private String getLanUpdateLog() {
+            return "https://github.com/HSSkyBoy/XP-AdBlocker/blob/master/app%2Fsrc%2Fmain%2Fassets%2Fhtml%2Fupdate_en.html";
     }
 
     private void uriListener() {
