@@ -1,7 +1,6 @@
 Disclaimer: I know, this description and its textd are looking bad, it's temporary. Fancy icons and Huge texts are gonna be placed here on the future.
 
-# Adblocker Reborn v2 (XPBlocker)
-#### Maintained by @HardcodedCat
+# Adblocker Reborn v2 (XP-AdBlocker)
 #### Created by @aviraxp
 
 This is the recontinued reborn version of a deprecated Xposed module AdBlocker, relying on Xposed Framework to work.
